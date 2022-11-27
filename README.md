@@ -1,0 +1,2 @@
+## About
+Using the Haar Cascade Classifier, first detect the face in a live stream. Then, speed up the algorithm by restricting the search area around the detected face. Finally, using the camshift algorithm to track the face in the live stream.
